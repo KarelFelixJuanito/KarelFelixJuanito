@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 - 🎓 Computer Science Student
-- 💻 Passionate about **Full-Stack Web Development** and **Quality Assurance**
+- 💻 Passionate about **Full-Stack Web Development**, **Data Scientist**, **Software Engineering** and **Quality Assurance**
 - 🛠️ Currently building cool projects with Next.js, Flutter, and Laravel
 
 ---
